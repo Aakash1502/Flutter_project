@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Let’s Meditate",
+    "time": "1m ago.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet."
+  },
+  {
+    "title": "Journal Reminder",
+    "time": "10m ago",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet."
+  },
+  {
+    "title": "Journal Reminder",
+    "time": "1d ago",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet."
+  },
+  {
+    "title": "Journal Reminder",
+    "time": "2d ago",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit dolor sit amet."
+  }
+]

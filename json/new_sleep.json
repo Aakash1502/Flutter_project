@@ -1,0 +1,30 @@
+[
+  {
+    "title": "The Nocturnal Journal",
+    "Artist": "Lee Crutchley",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+    "time": 6,
+    "thumbnail": "assets/story_thumb/story3.png"
+  },
+  {
+    "title": "Hinch Yourself Happy",
+    "time": 4,
+    "Artist": "Lee Crutchley",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+    "thumbnail": "assets/story_thumb/story4.png"
+  },
+  {
+    "title": "The Nocturnal Journal",
+    "time": 6,
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+    "Artist": "Lee Crutchley",
+    "thumbnail": "assets/story_thumb/story3.png"
+  },
+  {
+    "title": "Hinch Yourself Happy",
+    "time": 4,
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+    "Artist": "Lee Crutchley",
+    "thumbnail": "assets/story_thumb/story4.png"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "The Modern Loss",
+    "pages": 193,
+    "read": 300,
+    "thumbnail": "assets/books_thumb/book4.png"
+  },
+  {
+    "title": "Things that matter",
+    "pages": 193,
+    "read": 301,
+    "thumbnail": "assets/books_thumb/book5.png"
+  },
+  {
+    "title": "Bitter sweet",
+    "pages": 193,
+    "read": 305,
+    "thumbnail": "assets/books_thumb/book6.png"
+  },
+  {
+    "title": "The Modern Loss",
+    "pages": 193,
+    "read": 310,
+    "thumbnail": "assets/books_thumb/book4.png"
+  },
+  {
+    "title": "Things that matter",
+    "pages": 193,
+    "read": 320,
+    "thumbnail": "assets/books_thumb/book5.png"
+  },
+  {
+    "title": "Bitter sweet",
+    "pages": 193,
+    "read": 315,
+    "thumbnail": "assets/books_thumb/book6.png"
+  },
+  {
+    "title": "The Modern Loss",
+    "pages": 193,
+    "read": 380,
+    "thumbnail": "assets/books_thumb/book4.png"
+  },
+  {
+    "title": "Things that matter",
+    "pages": 193,
+    "read": 340,
+    "thumbnail": "assets/books_thumb/book5.png"
+  }
+
+]

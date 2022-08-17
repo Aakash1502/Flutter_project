@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Guided Meditation",
+    "time": "50 seconds",
+    "thumbnail": "assets/video_thumb/thumb1.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/meditation_video.mp4"
+  },
+  {
+    "title": "Vipassana Meditation",
+    "time": "50 seconds",
+    "thumbnail": "assets/video_thumb/thumb2.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/meditation_video.mp4"
+  },
+  {
+    "title": "Kindness Meditation",
+    "time": "50 seconds",
+    "thumbnail": "assets/video_thumb/thumb3.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/meditation_video.mp4"
+  },
+  {
+    "title": "Kindness Meditation",
+    "time": "50 seconds",
+    "thumbnail": "assets/video_thumb/thumb3.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/meditation_video.mp4"
+  }
+
+]

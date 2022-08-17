@@ -1,0 +1,51 @@
+name: reconnect_front_end
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+  video_player: ^2.4.5
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get:
+  like_button: ^2.0.4
+  audio_wave: ^0.1.4
+  intl: ^0.17.0
+  flutter_svg: ^1.1.1+1
+  flutter_gradient_colors: ^2.1.1
+  google_fonts: ^3.0.1
+  table_calendar: ^3.0.6
+  fl_chart: ^0.55.0
+  expandable_page_view: ^1.0.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+     - assets/home_icon/
+     - assets/
+     - assets/backgrounds/
+     - assets/appointment_confirm/
+     - assets/moods/
+     - assets/story_thumb/
+     - assets/therapist/
+     - assets/videos/
+     - assets/video_thumb/
+     - assets/books_thumb/
+     - assets/moods_img/
+     - json/
+  #   - images/a_dot_ham.jpeg
+
